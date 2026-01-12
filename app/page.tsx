@@ -40,7 +40,7 @@ export default function ChineseLearningApp() {
     <div className="min-h-screen bg-[#0f172a] text-slate-200 p-4 md:p-8 font-sans">
       <div className="max-w-md mx-auto relative">
         {/* Header */}
-        <header className="mb-6">
+        <header className="sticky top-0 z-30 bg-[#0f172a]/80 backdrop-blur-md pt-4 pb-6 mb-2">
           <div className="flex justify-between items-center mb-4">
             <h1 className="text-xl font-bold text-slate-100 tracking-wide">
               Chinese Practice
