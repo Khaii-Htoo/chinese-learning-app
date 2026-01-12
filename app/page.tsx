@@ -18,10 +18,11 @@ export default function ChineseLearningApp() {
   // LOGIC: Filter data based on Tab and HSK Level
   const items = useMemo(() => {
     if (activeTab === "conversation") return conversationData;
-    if (activeTab === "vocabulary") return vocabularyData;
+    if (activeTab === "vocabulary")
+      return vocabularyData.filter((item) => !item.hsk_level);
     if (activeTab === "hsk") {
       // Assumes your vocabulary JSON has an 'hsk_level' property
-      return vocabularyData.filter((item: any) => item.hsk_level === hskLevel);
+      return vocabularyData.filter((item) => item.hsk_level === hskLevel);
     }
     return [];
   }, [activeTab, hskLevel]);
