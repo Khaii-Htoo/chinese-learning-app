@@ -649,940 +649,1143 @@
   },
   {
     "id": 10001,
-    "chinese": "我",
-    "pinyin": "wǒ",
-    "burmese": "ကျွန်တော်/ကျွန်မ",
+    "chinese": "爱",
+    "pinyin": "ài",
+    "burmese": "ချစ်သည်။ ကြိုက်သည်။ အချစ်",
     "hsk_level": 1
   },
   {
     "id": 10002,
-    "chinese": "我们",
-    "pinyin": "wǒmen",
-    "burmese": "ကျွန်တော်တို့/ကျွန်မတို့",
+    "chinese": "八",
+    "pinyin": "bā",
+    "burmese": "နံပါတ် ရှစ်။",
     "hsk_level": 1
   },
   {
     "id": 10003,
-    "chinese": "你",
-    "pinyin": "nǐ",
-    "burmese": "သင်/မင်း",
+    "chinese": "爸爸",
+    "pinyin": "bàba",
+    "burmese": "အဖေ။",
     "hsk_level": 1
   },
   {
     "id": 10004,
-    "chinese": "他",
-    "pinyin": "tā",
-    "burmese": "သူ (အမျိုးသား)",
+    "chinese": "杯子",
+    "pinyin": "bēizi",
+    "burmese": "ခွက်",
     "hsk_level": 1
   },
   {
     "id": 10005,
-    "chinese": "她",
-    "pinyin": "tā",
-    "burmese": "သူ (အမျိုးသမီး)",
+    "chinese": "北京",
+    "pinyin": "běijīng",
+    "burmese": "ပေကျင်းမြို့",
     "hsk_level": 1
   },
   {
     "id": 10006,
-    "chinese": "这 (这儿)",
-    "pinyin": "zhè (zhèr)",
-    "burmese": "ဒါ (ဒီမှာ)",
+    "chinese": "本",
+    "pinyin": "běn",
+    "burmese": "အရင်းအမြစ်။ စာအုပ် စသည်ကို ရေတွက်သော ယူနစ်။",
     "hsk_level": 1
   },
   {
     "id": 10007,
-    "chinese": "那 (那儿)",
-    "pinyin": "nà (nàr)",
-    "burmese": "ဟိုဟာ (ဟိုမှာ)",
+    "chinese": "不客气",
+    "pinyin": "bú kèqi",
+    "burmese": "အားမနာပါနဲ့။ ရပါတယ်။",
     "hsk_level": 1
   },
   {
     "id": 10008,
-    "chinese": "哪",
-    "pinyin": "nǎ",
-    "burmese": "ဘယ်ဟာ",
+    "chinese": "不",
+    "pinyin": "bù",
+    "burmese": "မ...ဘူး။",
     "hsk_level": 1
   },
   {
     "id": 10009,
-    "chinese": "哪儿",
-    "pinyin": "nǎr",
-    "burmese": "ဘယ်မှာလဲ",
+    "chinese": "菜",
+    "pinyin": "cài",
+    "burmese": "ဟင်း",
     "hsk_level": 1
   },
   {
     "id": 10010,
-    "chinese": "谁",
-    "pinyin": "shéi",
-    "burmese": "ဘယ်သူလဲ",
+    "chinese": "茶",
+    "pinyin": "chá",
+    "burmese": "လက်ဖက်ရည်။",
     "hsk_level": 1
   },
   {
     "id": 10011,
-    "chinese": "什么",
-    "pinyin": "shénme",
-    "burmese": "ဘာလဲ",
+    "chinese": "吃",
+    "pinyin": "chī",
+    "burmese": "စားသည်။",
     "hsk_level": 1
   },
   {
     "id": 10012,
-    "chinese": "多少",
-    "pinyin": "duōshǎo",
-    "burmese": "ဘယ်လောက်လဲ (အရေအတွက်များ)",
+    "chinese": "出租车",
+    "pinyin": "chūzūchē",
+    "burmese": "တက္ကစီ။",
     "hsk_level": 1
   },
   {
     "id": 10013,
-    "chinese": "几",
-    "pinyin": "jǐ",
-    "burmese": "ဘယ်နှစ်ခုလဲ (အရေအတွက်နည်း)",
+    "chinese": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "burmese": "ဖုန်းခေါ်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10014,
-    "chinese": "怎么",
-    "pinyin": "zěnme",
-    "burmese": "ဘယ်လိုလဲ",
+    "chinese": "大",
+    "pinyin": "dà",
+    "burmese": "ကြီးသော။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10015,
+    "chinese": "的",
+    "pinyin": "de",
+    "burmese": "ပိုင်ဆိုင်မှုကို ပြသောစကားလုံး။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10016,
+    "chinese": "点",
+    "pinyin": "diǎn",
+    "burmese": "အစက်။ သေးသေးလေး။ အချိန် နာရီ ကို ပြသော စကားလုံး။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10017,
+    "chinese": "电脑",
+    "pinyin": "diànnǎo",
+    "burmese": "ကွန်ပျူတာ။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10018,
+    "chinese": "电视",
+    "pinyin": "diànshì",
+    "burmese": "တီဗွီ။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10019,
+    "chinese": "电影",
+    "pinyin": "diànyǐng",
+    "burmese": "ရုပ်ရှင်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10020,
+    "chinese": "东西",
+    "pinyin": "dōngxi",
+    "burmese": "ပစ္စည်း။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10021,
+    "chinese": "都",
+    "pinyin": "dōu",
+    "burmese": "အားလုံး။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10022,
+    "chinese": "读",
+    "pinyin": "dú",
+    "burmese": "(စာ) ဖတ်သည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10023,
+    "chinese": "对不起",
+    "pinyin": "duìbuqǐ",
+    "burmese": "ဆောရီး။ စိတ်မကောင်းပါဘူး။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10024,
+    "chinese": "多",
+    "pinyin": "duō",
+    "burmese": "များသော။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10025,
+    "chinese": "多少",
+    "pinyin": "duōshao",
+    "burmese": "ဘယ်လောက်လဲ။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10026,
+    "chinese": "儿子",
+    "pinyin": "érzi",
+    "burmese": "သား။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10027,
+    "chinese": "二",
+    "pinyin": "èr",
+    "burmese": "နံပါတ် နှစ်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10028,
+    "chinese": "饭店",
+    "pinyin": "fàndiàn",
+    "burmese": "စားသောက်ဆိုင်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10029,
+    "chinese": "飞机",
+    "pinyin": "fēijī",
+    "burmese": "လေယာဉ်ပျံ။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10030,
+    "chinese": "分钟",
+    "pinyin": "fēnzhōng",
+    "burmese": "မိနစ်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10031,
+    "chinese": "高兴",
+    "pinyin": "gāoxìng",
+    "burmese": "ပျော်ရွှင်သည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10032,
+    "chinese": "个",
+    "pinyin": "ge",
+    "burmese": "လူ ပစ္စည်း စသည်ကို ရေတွက်သည့် ယူနစ်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10033,
+    "chinese": "工作",
+    "pinyin": "gōngzuò",
+    "burmese": "အလုပ်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10034,
+    "chinese": "狗",
+    "pinyin": "gǒu",
+    "burmese": "ခွေး။",
     "hsk_level": 1
   },
   {
     "id": 10035,
-    "chinese": "都",
-    "pinyin": "dōu",
-    "burmese": "အားလုံး",
+    "chinese": "汉语",
+    "pinyin": "hànyǔ",
+    "burmese": "တရုတ်ဘာသာစကား။",
     "hsk_level": 1
   },
   {
     "id": 10036,
-    "chinese": "一点儿",
-    "pinyin": "yìdiǎnr",
-    "burmese": "နည်းနည်း / အနည်းငယ်",
+    "chinese": "好",
+    "pinyin": "hǎo",
+    "burmese": "ကောင်းသော။",
     "hsk_level": 1
   },
   {
     "id": 10037,
-    "chinese": "和",
-    "pinyin": "hé",
-    "burmese": "နှင့် / နဲ့",
+    "chinese": "号",
+    "pinyin": "hào",
+    "burmese": "နံပါတ်။",
     "hsk_level": 1
   },
   {
     "id": 10038,
-    "chinese": "在",
-    "pinyin": "zài",
-    "burmese": "မှာ / ရှိသည် (နေရာပြပုဒ်)",
+    "chinese": "喝",
+    "pinyin": "hē",
+    "burmese": "သောက်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10039,
-    "chinese": "的",
-    "pinyin": "de",
-    "burmese": "၏ / ရဲ့ (ပိုင်ဆိုင်မှုပြပုဒ်)",
+    "chinese": "和",
+    "pinyin": "hé",
+    "burmese": "နှင့်။ အတူ။",
     "hsk_level": 1
   },
   {
     "id": 10040,
-    "chinese": "了",
-    "pinyin": "le",
-    "burmese": "ပြီ / ခဲ့ပြီ (ပြီးစီးကြောင်းပြပုဒ်)",
+    "chinese": "很",
+    "pinyin": "hěn",
+    "burmese": "အလွန်။",
     "hsk_level": 1
   },
   {
     "id": 10041,
-    "chinese": "吗",
-    "pinyin": "ma",
-    "burmese": "လား (မေးခွန်းပြပုဒ်)",
+    "chinese": "后面",
+    "pinyin": "hòumian",
+    "burmese": "အနောက်ဘက်။",
     "hsk_level": 1
   },
   {
     "id": 10042,
-    "chinese": "呢",
-    "pinyin": "ne",
-    "burmese": "ရော (မေးခွန်းပြပုဒ်)",
+    "chinese": "回",
+    "pinyin": "huí",
+    "burmese": "ဘယ်နှစ်ခေါက် စသည် ရေတွက် သော ယူနစ်။",
     "hsk_level": 1
   },
   {
     "id": 10043,
-    "chinese": "喂",
-    "pinyin": "wèi",
-    "burmese": "ဟယ်လို (ဖုန်းဖြေကြားခြင်း)",
+    "chinese": "会",
+    "pinyin": "huì",
+    "burmese": "တတ်သည်။ သိသည်။ တတ်သည်။ အဖွဲ့အစည်း။",
     "hsk_level": 1
   },
   {
     "id": 10044,
-    "chinese": "家",
-    "pinyin": "jiā",
-    "burmese": "အိမ်",
+    "chinese": "几",
+    "pinyin": "jǐ",
+    "burmese": "မတိကျသော အရေအတွက် တစ်ချို့ ကို ရည်ညွှန်းသည်။ ဘယ်နှစ်ခု ရှိလဲဟု မေးသော မေးခွန်းတွင် သုံးသည်။",
     "hsk_level": 1
   },
   {
     "id": 10045,
-    "chinese": "学校",
-    "pinyin": "xuéxiào",
-    "burmese": "ကျောင်း",
+    "chinese": "家",
+    "pinyin": "jiā",
+    "burmese": "အိမ်။ မိသားစု။",
     "hsk_level": 1
   },
   {
     "id": 10046,
-    "chinese": "饭店",
-    "pinyin": "fàndiàn",
-    "burmese": "စားသောက်ဆိုင်",
+    "chinese": "叫",
+    "pinyin": "jiào",
+    "burmese": "ခေါ်သည်။ အော်ခေါ်သည်။ မှာသည်။",
     "hsk_level": 1
   },
   {
     "id": 10047,
-    "chinese": "商店",
-    "pinyin": "shāngdiàn",
-    "burmese": "ဆိုင် / စတိုးဆိုင်",
+    "chinese": "今天",
+    "pinyin": "jīntiān",
+    "burmese": "ယနေ့။",
     "hsk_level": 1
   },
   {
     "id": 10048,
-    "chinese": "医院",
-    "pinyin": "yīyuàn",
-    "burmese": "ဆေးရုံ",
+    "chinese": "九",
+    "pinyin": "jiǔ",
+    "burmese": "နံပါတ် ကိုး။",
     "hsk_level": 1
   },
   {
     "id": 10049,
-    "chinese": "中国",
-    "pinyin": "Zhōngguó",
-    "burmese": "တရုတ်ပြည်",
+    "chinese": "开",
+    "pinyin": "kāi",
+    "burmese": "ဖွင့်သည်။ မောင်းသည်။",
     "hsk_level": 1
   },
   {
     "id": 10050,
-    "chinese": "北京",
-    "pinyin": "Běijīng",
-    "burmese": "ပေကျင်း",
+    "chinese": "看",
+    "pinyin": "kàn",
+    "burmese": "ကြည့်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10051,
-    "chinese": "上",
-    "pinyin": "shàng",
-    "burmese": "အပေါ်",
+    "chinese": "看见",
+    "pinyin": "kànjiàn",
+    "burmese": "မြင်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10052,
-    "chinese": "下",
-    "pinyin": "xià",
-    "burmese": "အောက်",
+    "chinese": "块",
+    "pinyin": "kuài",
+    "burmese": "အတုံး။ အထုပ်။ ပိုက်ဆံ အရေအတွက်တွင် အနိမ့်ဆုံး အရေအတွက်။",
     "hsk_level": 1
   },
   {
     "id": 10053,
-    "chinese": "前面",
-    "pinyin": "qiánmiàn",
-    "burmese": "အရှေ့",
+    "chinese": "来",
+    "pinyin": "lái",
+    "burmese": "လာသည်။ ရောက်သည်။ နောက်တစ်ခု။",
     "hsk_level": 1
   },
   {
     "id": 10054,
-    "chinese": "后面",
-    "pinyin": "hòumiàn",
-    "burmese": "အနောက်ဘက်",
+    "chinese": "老师",
+    "pinyin": "lǎoshī",
+    "burmese": "ဆရာ။",
     "hsk_level": 1
   },
   {
     "id": 10055,
-    "chinese": "里面",
-    "pinyin": "lǐmiàn",
-    "burmese": "အထဲမှာ",
+    "chinese": "了",
+    "pinyin": "le",
+    "burmese": "ပြီးဆုံးကြောင်း ပြသော စကားလုံး။",
     "hsk_level": 1
   },
   {
     "id": 10056,
-    "chinese": "今天",
-    "pinyin": "jīntiān",
-    "burmese": "ယနေ့",
+    "chinese": "冷",
+    "pinyin": "lěng",
+    "burmese": "အေးသော။",
     "hsk_level": 1
   },
   {
     "id": 10057,
-    "chinese": "明天",
-    "pinyin": "míngtiān",
-    "burmese": "မနက်ဖြန်",
+    "chinese": "里",
+    "pinyin": "lǐ",
+    "burmese": "အထဲမှာ။ တရုတ် မိုင်။",
     "hsk_level": 1
   },
   {
     "id": 10058,
-    "chinese": "昨天",
-    "pinyin": "zuótiān",
-    "burmese": "မနေ့က",
+    "chinese": "六",
+    "pinyin": "liù",
+    "burmese": "နံပါတ် ခြောက်။",
     "hsk_level": 1
   },
   {
     "id": 10059,
-    "chinese": "上午",
-    "pinyin": "shàngwǔ",
-    "burmese": "နံနက်ပိုင်း",
+    "chinese": "妈妈",
+    "pinyin": "māma",
+    "burmese": "အမေ။",
     "hsk_level": 1
   },
   {
     "id": 10060,
-    "chinese": "中午",
-    "pinyin": "zhōngwǔ",
-    "burmese": "မွန်းတည့်ချိန်",
+    "chinese": "吗",
+    "pinyin": "ma",
+    "burmese": "မေးခွန်းပြပုဒ်။",
     "hsk_level": 1
   },
   {
     "id": 10061,
-    "chinese": "下午",
-    "pinyin": "xiàwǔ",
-    "burmese": "မွန်းလွဲပိုင်း",
+    "chinese": "买",
+    "pinyin": "mǎi",
+    "burmese": "ဝယ်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10062,
-    "chinese": "年",
-    "pinyin": "nián",
-    "burmese": "နှစ်",
+    "chinese": "猫",
+    "pinyin": "māo",
+    "burmese": "ကြောင်။",
     "hsk_level": 1
   },
   {
     "id": 10063,
-    "chinese": "月",
-    "pinyin": "yuè",
-    "burmese": "လ",
+    "chinese": "没关系",
+    "pinyin": "méi guānxi",
+    "burmese": "ကိစ္စမရှိပါဘူး။",
     "hsk_level": 1
   },
   {
     "id": 10064,
-    "chinese": "号",
-    "pinyin": "hào",
-    "burmese": "ရက်စွဲ/နံပါတ်",
+    "chinese": "没有",
+    "pinyin": "méiyǒu",
+    "burmese": "မရှိဘူး။",
     "hsk_level": 1
   },
   {
     "id": 10065,
-    "chinese": "星期",
-    "pinyin": "xīngqī",
-    "burmese": "အပတ်",
+    "chinese": "米饭",
+    "pinyin": "mǐfàn",
+    "burmese": "ထမင်း။",
     "hsk_level": 1
   },
   {
     "id": 10066,
-    "chinese": "点",
-    "pinyin": "diǎn",
-    "burmese": "နာရီ (အချိန်)",
+    "chinese": "明天",
+    "pinyin": "míngtiān",
+    "burmese": "မနက်ဖြန်။",
     "hsk_level": 1
   },
   {
     "id": 10067,
-    "chinese": "分钟",
-    "pinyin": "fēnzhōng",
-    "burmese": "မိနစ်",
+    "chinese": "名字",
+    "pinyin": "míngzi",
+    "burmese": "အမည်။",
     "hsk_level": 1
   },
   {
     "id": 10068,
-    "chinese": "现在",
-    "pinyin": "xiànzài",
-    "burmese": "အခု",
+    "chinese": "哪",
+    "pinyin": "nǎ",
+    "burmese": "ဘယ်တစ်ခုလဲ။",
     "hsk_level": 1
   },
   {
     "id": 10069,
-    "chinese": "时候",
-    "pinyin": "shíhou",
-    "burmese": "အချိန်",
+    "chinese": "哪儿",
+    "pinyin": "nǎr",
+    "burmese": "ဘယ်မှာလဲ။",
     "hsk_level": 1
   },
   {
     "id": 10070,
-    "chinese": "爸爸",
-    "pinyin": "bàba",
-    "burmese": "ဖေဖေ",
+    "chinese": "那",
+    "pinyin": "nà",
+    "burmese": "ဟိုတစ်ခု။",
     "hsk_level": 1
   },
   {
     "id": 10071,
-    "chinese": "妈妈",
-    "pinyin": "māma",
-    "burmese": "မေမေ",
+    "chinese": "呢",
+    "pinyin": "ne",
+    "burmese": "မေးခွန်းပြပုဒ်။",
     "hsk_level": 1
   },
   {
     "id": 10072,
-    "chinese": "儿子",
-    "pinyin": "érzi",
-    "burmese": "သား",
+    "chinese": "能",
+    "pinyin": "néng",
+    "burmese": "လုပ်နိုင်သည်၊ တတ်နိုင်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10073,
-    "chinese": "女儿",
-    "pinyin": "nǚ'ér",
-    "burmese": "သမီး",
+    "chinese": "你",
+    "pinyin": "nǐ",
+    "burmese": "သင်။",
     "hsk_level": 1
   },
   {
     "id": 10074,
-    "chinese": "老师",
-    "pinyin": "lǎoshī",
-    "burmese": "ဆရာ/ဆရာမ",
+    "chinese": "年",
+    "pinyin": "nián",
+    "burmese": "နှစ် (ရက် လ နှစ် စသည်)။",
     "hsk_level": 1
   },
   {
     "id": 10075,
-    "chinese": "学生",
-    "pinyin": "xuésheng",
-    "burmese": "ကျောင်းသား",
+    "chinese": "女儿",
+    "pinyin": "nǚ'ér",
+    "burmese": "သမီး။",
     "hsk_level": 1
   },
   {
     "id": 10076,
-    "chinese": "同学",
-    "pinyin": "tóngxué",
-    "burmese": "အတန်းဖော်",
+    "chinese": "朋友",
+    "pinyin": "péngyou",
+    "burmese": "သူငယ်ချင်း။",
     "hsk_level": 1
   },
   {
     "id": 10077,
-    "chinese": "朋友",
-    "pinyin": "péngyou",
-    "burmese": "သူငယ်ချင်း",
+    "chinese": "漂亮",
+    "pinyin": "piàoliang",
+    "burmese": "လှပသော။",
     "hsk_level": 1
   },
   {
     "id": 10078,
-    "chinese": "医生",
-    "pinyin": "yīshēng",
-    "burmese": "ဆရာဝန်",
+    "chinese": "苹果",
+    "pinyin": "píngguǒ",
+    "burmese": "ပန်းသီး။",
     "hsk_level": 1
   },
   {
     "id": 10079,
-    "chinese": "先生",
-    "pinyin": "xiānsheng",
-    "burmese": "ဦး / လူကြီးမင်း",
+    "chinese": "七",
+    "pinyin": "qī",
+    "burmese": "နံပါတ် ခုနစ်။",
     "hsk_level": 1
   },
   {
     "id": 10080,
-    "chinese": "小姐",
-    "pinyin": "xiǎojiě",
-    "burmese": "မ / မမ",
+    "chinese": "钱",
+    "pinyin": "qián",
+    "burmese": "ပိုက်ဆံ။",
     "hsk_level": 1
   },
   {
     "id": 10081,
-    "chinese": "衣服",
-    "pinyin": "yīfu",
-    "burmese": "အဝတ်အစား",
+    "chinese": "前面",
+    "pinyin": "qiánmiàn",
+    "burmese": "အရှေ့မှာ။",
     "hsk_level": 1
   },
   {
     "id": 10082,
-    "chinese": "水",
-    "pinyin": "shuǐ",
-    "burmese": "ရေ",
+    "chinese": "请",
+    "pinyin": "qǐng",
+    "burmese": "ခွင့်ပြုပြီး (ရိုသေစွာ ပြောသောစကား)။",
     "hsk_level": 1
   },
   {
     "id": 10083,
-    "chinese": "菜",
-    "pinyin": "cài",
-    "burmese": "ဟင်း / ဟင်းသီးဟင်းရွက်",
+    "chinese": "去",
+    "pinyin": "qù",
+    "burmese": "သွားသည်။",
     "hsk_level": 1
   },
   {
     "id": 10084,
-    "chinese": "米饭",
-    "pinyin": "mǐfàn",
-    "burmese": "ထမင်း",
+    "chinese": "热",
+    "pinyin": "rè",
+    "burmese": "ပူသော။",
     "hsk_level": 1
   },
   {
     "id": 10085,
-    "chinese": "水果",
-    "pinyin": "shuǐguǒ",
-    "burmese": "သစ်သီး",
+    "chinese": "人",
+    "pinyin": "rén",
+    "burmese": "လူ။",
     "hsk_level": 1
   },
   {
     "id": 10086,
-    "chinese": "苹果",
-    "pinyin": "píngguǒ",
-    "burmese": "ပန်းသီး",
+    "chinese": "认识",
+    "pinyin": "rènshi",
+    "burmese": "မှတ်မိသည်၊ သိသည်။",
     "hsk_level": 1
   },
   {
     "id": 10087,
-    "chinese": "茶",
-    "pinyin": "chá",
-    "burmese": "လက်ဖက်ရည် / ရေနွေးကြမ်း",
+    "chinese": "三",
+    "pinyin": "sān",
+    "burmese": "နံပါတ် သုံး။",
     "hsk_level": 1
   },
   {
     "id": 10088,
-    "chinese": "杯子",
-    "pinyin": "bēizi",
-    "burmese": "ဖန်ခွက်",
+    "chinese": "商店",
+    "pinyin": "shāngdiàn",
+    "burmese": "ဈေးဆိုင်။",
     "hsk_level": 1
   },
   {
     "id": 10089,
-    "chinese": "钱",
-    "pinyin": "qián",
-    "burmese": "ပိုက်ဆံ",
+    "chinese": "上",
+    "pinyin": "shàng",
+    "burmese": "အပေါ်၊ အထက်။",
     "hsk_level": 1
   },
   {
     "id": 10090,
-    "chinese": "飞机",
-    "pinyin": "fēijī",
-    "burmese": "လေယာဉ်ပျံ",
+    "chinese": "上午",
+    "pinyin": "shàngwǔ",
+    "burmese": "မနက်ပိုင်း။",
     "hsk_level": 1
   },
   {
     "id": 10091,
-    "chinese": "出租车",
-    "pinyin": "chūzūchē",
-    "burmese": "တက္ကစီ",
+    "chinese": "少",
+    "pinyin": "shǎo",
+    "burmese": "နည်းသော။",
     "hsk_level": 1
   },
   {
     "id": 10092,
-    "chinese": "电视",
-    "pinyin": "diànshì",
-    "burmese": "တီဗွီ / ရုပ်မြင်သံကြား",
+    "chinese": "谁",
+    "pinyin": "shéi",
+    "burmese": "ဘယ်သူလဲ။",
     "hsk_level": 1
   },
   {
     "id": 10093,
-    "chinese": "电脑",
-    "pinyin": "diànnǎo",
-    "burmese": "ကွန်ပျူတာ",
+    "chinese": "什么",
+    "pinyin": "shénme",
+    "burmese": "ဘာလဲ။",
     "hsk_level": 1
   },
   {
     "id": 10094,
-    "chinese": "电影",
-    "pinyin": "diànyǐng",
-    "burmese": "ရုပ်ရှင်",
+    "chinese": "十",
+    "pinyin": "shí",
+    "burmese": "နံပါတ် တစ်ဆယ်။",
     "hsk_level": 1
   },
   {
     "id": 10095,
-    "chinese": "天气",
-    "pinyin": "tiānqì",
-    "burmese": "ရာသီဥတု",
+    "chinese": "时候",
+    "pinyin": "shíhou",
+    "burmese": "အချိန်။",
     "hsk_level": 1
   },
   {
     "id": 10096,
-    "chinese": "猫",
-    "pinyin": "māo",
-    "burmese": "ကြောင်",
+    "chinese": "是",
+    "pinyin": "shì",
+    "burmese": "ဟုတ်သည်၊ ဖြစ်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10097,
-    "chinese": "狗",
-    "pinyin": "gǒu",
-    "burmese": "ခွေး",
+    "chinese": "书",
+    "pinyin": "shū",
+    "burmese": "စာအုပ်။",
     "hsk_level": 1
   },
   {
     "id": 10098,
-    "chinese": "东西",
-    "pinyin": "dōngxi",
-    "burmese": "ပစ္စည်း",
+    "chinese": "水",
+    "pinyin": "shuǐ",
+    "burmese": "ရေ။",
     "hsk_level": 1
   },
   {
     "id": 10099,
-    "chinese": "人",
-    "pinyin": "rén",
-    "burmese": "လူ",
+    "chinese": "水果",
+    "pinyin": "shuǐguǒ",
+    "burmese": "အသီး။",
     "hsk_level": 1
   },
   {
     "id": 10100,
-    "chinese": "名字",
-    "pinyin": "míngzi",
-    "burmese": "နာမည်",
+    "chinese": "睡觉",
+    "pinyin": "shuì jiào",
+    "burmese": "အိပ်သည်။ အိပ်ယာဝင်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10101,
-    "chinese": "书",
-    "pinyin": "shū",
-    "burmese": "စာအုပ်",
+    "chinese": "说",
+    "pinyin": "shuō",
+    "burmese": "ပြောသည်။",
     "hsk_level": 1
   },
   {
     "id": 10102,
-    "chinese": "汉语",
-    "pinyin": "hànyǔ",
-    "burmese": "တရုတ်ဘာသာစကား",
+    "chinese": "四",
+    "pinyin": "sì",
+    "burmese": "နံပါတ် လေး။",
     "hsk_level": 1
   },
   {
     "id": 10103,
-    "chinese": "字",
-    "pinyin": "zì",
-    "burmese": "စာလုံး",
+    "chinese": "岁",
+    "pinyin": "suì",
+    "burmese": "နှစ်။ အသက် ကို ပြသော ယူနစ်။ ဆယ့်တစ်နှစ် စသည်။",
     "hsk_level": 1
   },
   {
     "id": 10104,
-    "chinese": "桌子",
-    "pinyin": "zhuōzi",
-    "burmese": "စားပွဲ",
+    "chinese": "他",
+    "pinyin": "tā",
+    "burmese": "သူ။",
     "hsk_level": 1
   },
   {
     "id": 10105,
-    "chinese": "椅子",
-    "pinyin": "yǐzi",
-    "burmese": "ကုလားထိုင်",
+    "chinese": "她",
+    "pinyin": "tā",
+    "burmese": "သူမ။",
     "hsk_level": 1
   },
   {
     "id": 10106,
-    "chinese": "谢谢",
-    "pinyin": "xièxie",
-    "burmese": "ကျေးဇူးတင်ပါတယ်",
+    "chinese": "太",
+    "pinyin": "tài",
+    "burmese": "အလွန်။",
     "hsk_level": 1
   },
   {
     "id": 10107,
-    "chinese": "不客气",
-    "pinyin": "búkèqì",
-    "burmese": "ရပါတယ် / အားမနာပါနဲ့",
+    "chinese": "天气",
+    "pinyin": "tiānqì",
+    "burmese": "မိုးလေဝသ။",
     "hsk_level": 1
   },
   {
     "id": 10108,
-    "chinese": "再见",
-    "pinyin": "zàijiàn",
-    "burmese": "နောက်မှတွေ့မယ် / သွားပြီနော်",
+    "chinese": "听",
+    "pinyin": "tīng",
+    "burmese": "နားထောင်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10109,
-    "chinese": "请",
-    "pinyin": "qǐng",
-    "burmese": "ကျေးဇူးပြု၍ / ဖိတ်ခေါ်သည်",
+    "chinese": "同学",
+    "pinyin": "tóngxué",
+    "burmese": "အတန်းတူ၊ ကျောင်းတူ။",
     "hsk_level": 1
   },
   {
     "id": 10110,
-    "chinese": "对不起",
-    "pinyin": "duìbùqǐ",
-    "burmese": "တောင်းပန်ပါတယ်",
+    "chinese": "喂",
+    "pinyin": "wèi",
+    "burmese": "ဟဲလို။",
     "hsk_level": 1
   },
   {
     "id": 10111,
-    "chinese": "没关系",
-    "pinyin": "méiguānxì",
-    "burmese": "ကိစ္စမရှိပါဘူး",
+    "chinese": "我",
+    "pinyin": "wǒ",
+    "burmese": "ငါ။ ကျွန်တော်။",
     "hsk_level": 1
   },
   {
     "id": 10112,
-    "chinese": "是",
-    "pinyin": "shì",
-    "burmese": "ဖြစ်သည် / ဟုတ်သည်",
+    "chinese": "我们",
+    "pinyin": "wǒmen",
+    "burmese": "ငါတို့။",
     "hsk_level": 1
   },
   {
     "id": 10113,
-    "chinese": "有",
-    "pinyin": "yǒu",
-    "burmese": "ရှိသည် / ပိုင်ဆိုင်သည်",
+    "chinese": "五",
+    "pinyin": "wǔ",
+    "burmese": "နံပါတ် ငါး။",
     "hsk_level": 1
   },
   {
     "id": 10114,
-    "chinese": "看",
-    "pinyin": "kàn",
-    "burmese": "ကြည့်သည် / ဖတ်သည်",
+    "chinese": "喜欢",
+    "pinyin": "xǐhuan",
+    "burmese": "ကြိုက်နှစ်သက်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10115,
-    "chinese": "听",
-    "pinyin": "tīng",
-    "burmese": "နားထောင်သည်",
+    "chinese": "下",
+    "pinyin": "xià",
+    "burmese": "အောက်။",
     "hsk_level": 1
   },
   {
     "id": 10116,
-    "chinese": "说",
-    "pinyin": "shuō",
-    "burmese": "ပြောသည်",
+    "chinese": "下午",
+    "pinyin": "xiàwǔ",
+    "burmese": "မွန်းလွဲပိုင်း။",
     "hsk_level": 1
   },
   {
     "id": 10117,
-    "chinese": "读",
-    "pinyin": "dú",
-    "burmese": "ဖတ်သည် / လေ့လာသည်",
+    "chinese": "下雨",
+    "pinyin": "xiàyǔ",
+    "burmese": "မိုးရွာသည်။",
     "hsk_level": 1
   },
   {
     "id": 10118,
-    "chinese": "写",
-    "pinyin": "xiě",
-    "burmese": "ရေးသည်",
+    "chinese": "先生",
+    "pinyin": "xiānsheng",
+    "burmese": "မစ္စတာ / ဦး။ လင်ယောက်ျား။",
     "hsk_level": 1
   },
   {
     "id": 10119,
-    "chinese": "看见",
-    "pinyin": "kànjiàn",
-    "burmese": "မြင်သည်",
+    "chinese": "现在",
+    "pinyin": "xiànzài",
+    "burmese": "အခု။ ယခု။",
     "hsk_level": 1
   },
   {
     "id": 10120,
-    "chinese": "叫",
-    "pinyin": "jiào",
-    "burmese": "ခေါ်သည် / အမည်တွင်သည်",
+    "chinese": "想",
+    "pinyin": "xiǎng",
+    "burmese": "စဉ်းစားသည်။",
     "hsk_level": 1
   },
   {
     "id": 10121,
-    "chinese": "来",
-    "pinyin": "lái",
-    "burmese": "လာသည်",
+    "chinese": "小",
+    "pinyin": "xiǎo",
+    "burmese": "သေးသော။",
     "hsk_level": 1
   },
   {
     "id": 10122,
-    "chinese": "回",
-    "pinyin": "huí",
-    "burmese": "ပြန်သည်",
+    "chinese": "小姐",
+    "pinyin": "xiǎojie",
+    "burmese": "မိန်းကလေး။",
     "hsk_level": 1
   },
   {
     "id": 10123,
-    "chinese": "去",
-    "pinyin": "qù",
-    "burmese": "သွားသည်",
+    "chinese": "些",
+    "pinyin": "xiē",
+    "burmese": "အချို့သော။",
     "hsk_level": 1
   },
   {
     "id": 10124,
-    "chinese": "吃",
-    "pinyin": "chī",
-    "burmese": "စားသည်",
+    "chinese": "写",
+    "pinyin": "xiě",
+    "burmese": "ရေးသည်။",
     "hsk_level": 1
   },
   {
     "id": 10125,
-    "chinese": "喝",
-    "pinyin": "hē",
-    "burmese": "သောက်သည်",
+    "chinese": "谢谢",
+    "pinyin": "xièxie",
+    "burmese": "ကျေးဇူးတင်ပါသည်။",
     "hsk_level": 1
   },
   {
     "id": 10126,
-    "chinese": "睡觉",
-    "pinyin": "shuìjiào",
-    "burmese": "အိပ်သည်",
+    "chinese": "星期",
+    "pinyin": "xīngqī",
+    "burmese": "ရက် သီတင်းပတ်။",
     "hsk_level": 1
   },
   {
     "id": 10127,
-    "chinese": "打电话",
-    "pinyin": "dǎ diànhuà",
-    "burmese": "ဖုန်းခေါ်သည်",
+    "chinese": "学生",
+    "pinyin": "xuésheng",
+    "burmese": "ကျောင်းသား။",
     "hsk_level": 1
   },
   {
     "id": 10128,
-    "chinese": "做",
-    "pinyin": "zuò",
-    "burmese": "လုပ်သည်",
+    "chinese": "学习",
+    "pinyin": "xuéxí",
+    "burmese": "စာဖတ်သည်။ လေ့လာသည်။",
     "hsk_level": 1
   },
   {
     "id": 10129,
-    "chinese": "买",
-    "pinyin": "mǎi",
-    "burmese": "ဝယ်သည်",
+    "chinese": "学校",
+    "pinyin": "xuéxiào",
+    "burmese": "ကျောင်း။",
     "hsk_level": 1
   },
   {
     "id": 10130,
-    "chinese": "开",
-    "pinyin": "kāi",
-    "burmese": "ဖွင့်သည် / မောင်းနှင်သည်",
+    "chinese": "一",
+    "pinyin": "yī",
+    "burmese": "နံပါတ် တစ်။",
     "hsk_level": 1
   },
   {
     "id": 10131,
-    "chinese": "坐",
-    "pinyin": "zuò",
-    "burmese": "ထိုင်သည်",
+    "chinese": "衣服",
+    "pinyin": "yīfu",
+    "burmese": "အဝတ်အစား။",
     "hsk_level": 1
   },
   {
     "id": 10132,
-    "chinese": "住",
-    "pinyin": "zhù",
-    "burmese": "နေထိုင်သည်",
+    "chinese": "医生",
+    "pinyin": "yīshēng",
+    "burmese": "ဆရာဝန်။",
     "hsk_level": 1
   },
   {
     "id": 10133,
-    "chinese": "学习",
-    "pinyin": "xuéxí",
-    "burmese": "လေ့လာသည် / သင်ယူသည်",
+    "chinese": "医院",
+    "pinyin": "yīyuàn",
+    "burmese": "ဆေးရုံ။",
     "hsk_level": 1
   },
   {
     "id": 10134,
-    "chinese": "工作",
-    "pinyin": "gōngzuò",
-    "burmese": "အလုပ်လုပ်သည်",
+    "chinese": "椅子",
+    "pinyin": "yǐzi",
+    "burmese": "ကုလားထိုင်။",
     "hsk_level": 1
   },
   {
     "id": 10135,
-    "chinese": "下雨",
-    "pinyin": "xiàyǔ",
-    "burmese": "မိုးရွာသည်",
+    "chinese": "一点儿",
+    "pinyin": "yìdiǎnr",
+    "burmese": "နည်းနည်း။",
     "hsk_level": 1
   },
   {
     "id": 10136,
-    "chinese": "爱",
-    "pinyin": "ài",
-    "burmese": "ချစ်သည်",
+    "chinese": "有",
+    "pinyin": "yǒu",
+    "burmese": "ပိုင်ဆိုင်သည်။ လက်ဝယ်ရှိသည်။",
     "hsk_level": 1
   },
   {
     "id": 10137,
-    "chinese": "喜欢",
-    "pinyin": "xǐhuān",
-    "burmese": "ကြိုက်သည် / နှစ်သက်သည်",
+    "chinese": "月",
+    "pinyin": "yuè",
+    "burmese": "လ။",
     "hsk_level": 1
   },
   {
     "id": 10138,
-    "chinese": "想",
-    "pinyin": "xiǎng",
-    "burmese": "ချင်သည် / စဉ်းစားသည် / လွမ်းသည်",
+    "chinese": "在",
+    "pinyin": "zài",
+    "burmese": "(တစ်နေရာရာမှာ) ရှိသည်။",
     "hsk_level": 1
   },
   {
     "id": 10139,
-    "chinese": "认识",
-    "pinyin": "rènshi",
-    "burmese": "သိကျွမ်းသည်",
+    "chinese": "再见",
+    "pinyin": "zàijiàn",
+    "burmese": "နောက်မှ တွေ့မယ်။ တာ့တာ။",
     "hsk_level": 1
   },
   {
     "id": 10140,
-    "chinese": "会",
-    "pinyin": "huì",
-    "burmese": "တတ်သည် / လိမ့်မည်",
+    "chinese": "怎么",
+    "pinyin": "zěnme",
+    "burmese": "ဘယ်လိုလဲ။",
     "hsk_level": 1
   },
   {
     "id": 10141,
-    "chinese": "能",
-    "pinyin": "néng",
-    "burmese": "နိုင်သည် (စွမ်းဆောင်ရည်)",
+    "chinese": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "burmese": "ဘယ်လို ဖြစ်မလဲ။",
     "hsk_level": 1
   },
   {
     "id": 10142,
-    "chinese": "好",
-    "pinyin": "hǎo",
-    "burmese": "ကောင်းသော",
+    "chinese": "这",
+    "pinyin": "zhè",
+    "burmese": "ဒီဟာ။",
     "hsk_level": 1
   },
   {
     "id": 10143,
-    "chinese": "大",
-    "pinyin": "dà",
-    "burmese": "ကြီးသော",
+    "chinese": "中国",
+    "pinyin": "zhōngguó",
+    "burmese": "တရုတ်နိုင်ငံ။",
     "hsk_level": 1
   },
   {
     "id": 10144,
-    "chinese": "小",
-    "pinyin": "xiǎo",
-    "burmese": "ငယ်သော",
+    "chinese": "中午",
+    "pinyin": "zhōngwǔ",
+    "burmese": "နေ့လည်။",
     "hsk_level": 1
   },
   {
     "id": 10145,
-    "chinese": "多",
-    "pinyin": "duō",
-    "burmese": "များသော",
+    "chinese": "住",
+    "pinyin": "zhù",
+    "burmese": "(တစ်နေရာရာတွင်) နေသည်။",
     "hsk_level": 1
   },
   {
     "id": 10146,
-    "chinese": "少",
-    "pinyin": "shǎo",
-    "burmese": "နည်းသော",
+    "chinese": "桌子",
+    "pinyin": "zhuōzi",
+    "burmese": "စားပွဲ။",
     "hsk_level": 1
   },
   {
     "id": 10147,
-    "chinese": "冷",
-    "pinyin": "lěng",
-    "burmese": "အေးသော",
+    "chinese": "字",
+    "pinyin": "zì",
+    "burmese": "စာလုံး။",
     "hsk_level": 1
   },
   {
     "id": 10148,
-    "chinese": "热",
-    "pinyin": "rè",
-    "burmese": "ပူသော",
+    "chinese": "昨天",
+    "pinyin": "zuótiān",
+    "burmese": "မနေ့က။",
     "hsk_level": 1
   },
   {
     "id": 10149,
-    "chinese": "高兴",
-    "pinyin": "gāoxìng",
-    "burmese": "ဝမ်းသာသော / ပျော်ရွှင်သော",
+    "chinese": "做",
+    "pinyin": "zuò",
+    "burmese": "ပြုလုပ်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10150,
-    "chinese": "漂亮",
-    "pinyin": "piàoliang",
-    "burmese": "လှပသော",
+    "chinese": "坐",
+    "pinyin": "zuò",
+    "burmese": "ထိုင်သည်။",
     "hsk_level": 1
   },
   {
     "id": 10151,
-    "chinese": "冷",
-    "pinyin": "lěng",
-    "burmese": "အေးသော",
+    "chinese": "吧",
+    "pinyin": "ba",
+    "burmese": "တိုက်တွန်း ပြောဆိုသော ဝါကျနောက်ပိတ်ပုဒ်။",
     "hsk_level": 1
   },
   {
     "id": 10152,
-    "chinese": "热",
-    "pinyin": "rè",
-    "burmese": "ပူသော",
+    "chinese": "白",
+    "pinyin": "bái",
+    "burmese": "ဖြူသော။",
     "hsk_level": 1
   },
   {
     "id": 10153,
-    "chinese": "高兴",
-    "pinyin": "gāoxìng",
-    "burmese": "ဝမ်းသာသော / ပျော်ရွှင်သော",
+    "chinese": "百",
+    "pinyin": "bǎi",
+    "burmese": "တစ်ရာ။",
     "hsk_level": 1
   },
   {
     "id": 10154,
-    "chinese": "漂亮",
-    "pinyin": "piàoliang",
-    "burmese": "လှပသော",
+    "chinese": "帮助",
+    "pinyin": "bāngzhù",
+    "burmese": "ကူညီသည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10155,
+    "chinese": "报纸",
+    "pinyin": "bàozhǐ",
+    "burmese": "သတင်းစာ။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10156,
+    "chinese": "比",
+    "pinyin": "bǐ",
+    "burmese": "နှိုင်းယှဉ်သည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10157,
+    "chinese": "别",
+    "pinyin": "bié",
+    "burmese": "မလုပ်ရန် တားမြစ်သည်။ နှုတ်ဆက်သည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10158,
+    "chinese": "宾馆",
+    "pinyin": "bīnguǎn",
+    "burmese": "ဧည့်ဂေဟာ။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10159,
+    "chinese": "长",
+    "pinyin": "cháng, zhǎng",
+    "burmese": "အရှည်။ အလျား။ ကြီးထွားသည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10160,
+    "chinese": "唱歌",
+    "pinyin": "chànggē",
+    "burmese": "သီချင်းဆိုသည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10161,
+    "chinese": "出",
+    "pinyin": "chū",
+    "burmese": "အပြင်ထွက်သည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10162,
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "burmese": "ဝတ်သည်။",
+    "hsk_level": 1
+  },
+  {
+    "id": 10163,
+    "chinese": "次",
+    "pinyin": "cì",
+    "burmese": "အကြိမ်ရေ ပြ စကားလုံး။",
     "hsk_level": 1
   }
 ]
